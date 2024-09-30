@@ -1,4 +1,4 @@
-file2 = r'/Users/lenablackmon/Library/CloudStorage/GoogleDrive-blackmon@berkeley.edu/My Drive/fletchlab/xBiotix/20240809_xBiotix/MysteriousZhangCompounds.csv'
+file2 = r'test'
 
 pre_df2 = pd.read_csv(file2)
 
